@@ -1,12 +1,11 @@
 # Site settings
-title: Game Developer
-email: your-email@domain.com
+title: Nate Morgan
+email: nwmorgan@usc.edu
 description: > # keep this and put description below
   Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: gamingportfolio
-twitter_username: gamingportfolio
+url: "https://natemorgan.github.io" # the base hostname & protocol for your site
+linkedin_url: "https://www.linkedin.com/in/natewmorgan/"
+github_username: nwmorgan18
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
